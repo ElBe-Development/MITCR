@@ -2,7 +2,7 @@
 A modified version of the MIT License, not allowing for commercial use without explicit consent from the person responsible for the project.
 
 ## Restrictions
-This may be invalid due to my missinterpretation of legal langauge and may not include all valid or invalid use cases for the software.
+This may be invalid due to my misinterpretation of legal language and may not include all valid or invalid use cases for the software.
 
 ### What you can do
 - You can use the software for non-commercial use cases
