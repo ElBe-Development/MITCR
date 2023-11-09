@@ -19,7 +19,7 @@ the sale of the software or products derived from it, and the use of the
 software within a commercial enterprise. For inquiries regarding commercial use,
 please contact [contact information].
 
-If a new version of this license (https://github.com/ElBe-Development/License)
+If a new version of this license (https://github.com/ElBe-Development/MITCR)
 comes out, this version AUTOMATICALLY is valid. Any projects using the license,
 should update the license to include the newest additions. This is done to
 prevent exploiting versions of the Software, that do not have loopholes or
